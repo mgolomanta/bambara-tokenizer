@@ -2,10 +2,7 @@
 
 Advanced tokenization toolkit for the Bambara language (Bamanankan)
 
-with open("README.md", "r", encoding="utf-8") as fh:
-    long_description = fh.read()
 
-setup(
     name="bambara-tokenizer",
     version="1.0.0",
     author="Mahamadou Golomanta",
@@ -22,7 +19,6 @@ setup(
     ],
     python_requires='>=3.6',
     keywords='nlp bambara tokenizer african-languages',
-)
 
 
 
