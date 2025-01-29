@@ -7,15 +7,22 @@ Name="bambara-tokenizer",
 Version="1.0.0",
 
 Author="Mahamadou Golomanta",
-Author_email="pelengana1@example.com",
-Description="Advanced tokenizer for the Bambara language",
-url="https://github.com/mgolomanta/bambara-tokenizer",
-Programming Language :: Python :: 3,
-License :: OSI Approved :: MIT License,
-Operating System :: OS Independent,
-python_requires='>=3.6',
-keywords='nlp bambara tokenizer african-languages',
 
+Author_email="pelengana1@example.com",
+
+Description="Advanced tokenizer for the Bambara language",
+
+url="https://github.com/mgolomanta/bambara-tokenizer",
+
+Programming Language :: Python :: 3,
+
+License :: OSI Approved :: MIT License,
+
+Operating System :: OS Independent,
+
+python_requires='>=3.6',
+
+keywords='nlp bambara tokenizer african-languages',
 
 ## Basic Usage
 from bambara_tokenizer import BambaraTokenizer
