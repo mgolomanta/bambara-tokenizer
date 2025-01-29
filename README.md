@@ -2,11 +2,13 @@
 
 Advanced tokenization toolkit for the Bambara language (Bamanankan)
 
-name="bambara-tokenizer",
-version="1.0.0",
-author="Mahamadou Golomanta",
-author_email="pelengana1@example.com",
-description="Advanced tokenizer for the Bambara language",
+Name="bambara-tokenizer",
+
+Version="1.0.0",
+
+Author="Mahamadou Golomanta",
+Author_email="pelengana1@example.com",
+Description="Advanced tokenizer for the Bambara language",
 url="https://github.com/mgolomanta/bambara-tokenizer",
 Programming Language :: Python :: 3,
 License :: OSI Approved :: MIT License,
